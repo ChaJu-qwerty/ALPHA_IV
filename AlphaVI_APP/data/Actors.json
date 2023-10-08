@@ -1,0 +1,4 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"Sprite Nauta","classId":9,"equips":[0,0,102,103,0],"faceIndex":0,"faceName":"Face_DataSheet_Nauta","traits":[{"code":14,"dataId":1,"value":1},{"code":23,"dataId":9,"value":0.65},{"code":22,"dataId":1,"value":0.3},{"code":11,"dataId":1,"value":0.7},{"code":31,"dataId":1,"value":1},{"code":34,"dataId":0,"value":1},{"code":33,"dataId":0,"value":1},{"code":64,"dataId":2,"value":1}],"initialLevel":1,"maxLevel":5,"name":"Nauta","nickname":"","note":"","profile":"Tu... Un explorador apunto de adentrarse a un mundo nuevo..."}
+]
